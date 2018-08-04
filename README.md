@@ -2,7 +2,7 @@
 Basic python web login brute force tool. 
 
 #### Usage:
-`python LoginAttack.py http://example.com/login.php wordlist.txt`
+`python LoginAttack.py --url http://example.com/login.php --wordlist wordlist.txt`
 
 #### Things to do:
 * Improve data post methods
